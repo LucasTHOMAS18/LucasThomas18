@@ -14,9 +14,6 @@
   <a href="https://github.com/MaitreRenard18">
     <img src="https://img.shields.io/badge/Personal%20Projects-MaitreRenard18-24292e?style=for-the-badge&logo=github">
   </a>
-  <a href="https://linkedin.com/in/lucas-thomas-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Thomas-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
 </p>
 
 ---
