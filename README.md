@@ -76,6 +76,14 @@ My interests include:
 
 ## 📌 Featured projects
 
+### 📊 ConsoLead
+A Django-based web application used for academic monitoring and analysis of student performance.  
+Includes database storage, historical tracking, and data visualization.
+
+🔗 [View project](https://github.com/amin-elmellouki/SAE_Consolidation)
+
+---
+
 ### 🌌 Renard Space Program
 Procedural space simulation project built with **Godot** and **GLSL shaders**.  
 Focus on procedural planet generation (Perlin noise) and real-time rendering.
@@ -89,14 +97,6 @@ A local network messaging application developed in **Python** with **PyQt** and 
 Supports real-time communication and media exchange between users.
 
 🔗 [View project](https://github.com/MaitreRenard18/Python-Live-Chat)
-
----
-
-### 📊 ConsoLead
-A Django-based web application used for academic monitoring and analysis of student performance.  
-Includes database storage, historical tracking, and data visualization.
-
-🔗 [View project](https://github.com/amin-elmellouki/SAE_Consolidation)
 
 ---
 
@@ -115,12 +115,6 @@ Automated tool that monitors available student housing and sends a notification 
 
 ---
 
-## 🔗 Other links
-
-- 🧑‍💻 Personal GitHub: https://github.com/MaitreRenard18  
-
----
-
 ## 📈 Stats
 
 <p align="center">
@@ -131,6 +125,12 @@ Automated tool that monitors available student housing and sends a notification 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LucasThomas18&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🔗 Other links
+
+- 🧑‍💻 Personal GitHub: https://github.com/MaitreRenard18  
 
 ---
 <p align="center">
