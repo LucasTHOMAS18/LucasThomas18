@@ -25,7 +25,7 @@ This GitHub account is dedicated to my **academic work**.
 You will find:
 - 📚 Academic projects (individual and group work)
 - 🌐 Web applications
-- 💻 Software applications (including JavaFX projects)
+- 💻 Software applications
 - 🗃️ Databases related projects
 
 ---
@@ -38,7 +38,6 @@ My interests include:
 - Software engineering
 - Backend systems & APIs
 - Data processing
-- Interactive systems
 - Computer graphics & procedural generation
 
 ---
